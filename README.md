@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on Web3/Blockchain<br>🌱 I’m currently learning React, Solidity, and related libraries<br>💬 Ask me about Digital Transformation, Technology Management<br>
 
 
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mertefesevim&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mertefesevim&icon=5&color=1)](https://visitcount.itsvg.in)
