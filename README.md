@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Web3/Blockchain<br>🌱 I’m currently learning React, Solidity, and related libraries<br>💬 Ask me about Digital Transformation, Technology Management<br>
+🔭 I’m currently working on AI/ML<br>🌱 I’m currently learning React, PyTorch, and related libraries<br>💬 Ask me about Digital Transformation, Technology Management<br>
 
 
 ## 🌐 Socials:
