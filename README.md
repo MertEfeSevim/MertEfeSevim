@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI.<br>🤝 I’m looking for help with where to begin.<br>🌱 I’m currently learning Tensorflow.<br>💬 Ask me about Digital Transformation, Tech Management, and Business Models.<br>⚡ Fun fact, career change is difficult.
+🔭 I’m currently working on AI.<br><br>💬 Ask me about Digital Transformation, Tech Management, and Business Models.<br>
 
 
 ## 🌐 Socials:
